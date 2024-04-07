@@ -67,9 +67,10 @@ MSc Environmental Science
 \cvline{}{\textbf{\href{https://www.nina.no/english/Contact/employees/employee-info.aspx?AnsattID=15536}{Dr Joachim P Töpper}}, Norwegian Institute for Nature Research, PhD co-supervisor, \href{mailto:joachim.topper@nina.no}{joachim.topper@nina.no}}
 % \cvline{}{\textbf{\href{https://www1.bio.ku.dk/english/staff/?pure=en/persons/168460}{Prof. Anders Michelsen}}, Terrestrial Ecology Section, Master thesis co-supervisor, \href{mailto:andersm@bio.ku.dk}{andersm@bio.ku.dk}}
 % \cvline{}{\textbf{\href{http://www.denkamen.ru/en}{Anna Kvashnina}}, Denezhkin Kamen Federal Nature Preserve (Zapovednik) Director (Russia), \href{mailto:akvaanna@gmail.com}{akvaanna@gmail.com}, +79045477075}
-% \cvline{}{\textbf{\href{https://www.linkedin.com/in/neuhaus-sébastien-97383241/}{Lt Col (NATO OF4) Sébastien Neuhaus}}, Deputy Commander Rescue Training School, Swiss Armed Forces, Main instructor of my officer training and colleague on peace support operation, supporting my leadership, organisational and problem-solving skills, \href{mailto:sebastien.neuhaus@vtg.admin.ch}{sebastien.neuhaus@vtg.admin.ch}}
+% \cvline{}{\textbf{\href{https://www.linkedin.com/in/neuhaus-sébastien-97383241/}{Lt Col (NATO OF4) Sébastien Neuhaus}}, Deputy Commander Rescue Training School, Swiss Armed Forces, Main instructor of my officer training and colleague on peace support operation, supporting my leadership, organisational and problem-solving skills, \href{mailto:sebastien.neuhaus@vtg.admin.ch}{sebastien.neuhaus@vtg.admin.ch}} -->
 
 ## Currently
+
 PhD in Alpine Ecology, University of Bergen (UiB), Bjerknes Centre for Climate Research (BCCR), Carbon fluxes response to environmental warming in alpine grasslands
 
 
